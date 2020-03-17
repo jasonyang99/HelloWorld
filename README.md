@@ -1,4 +1,4 @@
-![Alt text](/markdown-logo-208x128.png "Hello MarkDown")
+![Alt text](https://github.com/Advgcipc/HelloWorld/markdown-logo-208x128.png "Hello MarkDown")
 
 > Markdown °Ï¶ô¤Þ¨¥
 
