@@ -1,7 +1,9 @@
 ![Alt text](https://github.com/Advgcipc/HelloWorld/markdown-logo-208x128.png "Hello MarkDown")
-https://github.com/Advgcipc/HelloWorld/markdown-logo-208x128.png
+
+![alt text](https://github.com/Advgcipc/HelloWorld/markdown-logo-208x128.png "Logo 標題文字範例一")
+
+
 > Markdown 區塊引言
-https://camo.githubusercontent.com/cea26671a29e4247ad29ddb8b7561fed17fe5a3b/68747470733a2f2f6d61726b646f776e2e74772f696d616765732f323038783132382e706e67
 > > Markdown 區塊引言
 
 Markdown Setext形式
@@ -29,10 +31,32 @@ Markdown Setext形式
     </tr>
 </table>
 
-|姓名|性?|年?|國籍|
+表格
+====
+  |姓名|性別|年齡|國籍|
   |---|----|----|---|
   |有大JJ的妹子|男|94|日本|
   |有大ㄋㄋ的漢子|女|87|美國|
+
+強調
+====
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+縮行
+====
+
+>文字內容
+>>縮行
+>>>縮行
+>>>>(以此類推)
+
 
 > ## This is a header.
 > 
@@ -47,42 +71,6 @@ Markdown支援有序清單和無序清單。
 *   Red
 *   Green
 *   Blue
-
-等同於：
-
-+   Red
-+   Green
-+   Blue
-
-也等同於：
-
--   Red
--   Green
--   Blue
-
-有序清單則使用數字接著一個英文句點：
-
-1.  Bird
-2.  McHale
-3.  Parish
-
-
-<table>
-    <tr>
-- [x] Red 
-    </tr>
-</table>
-
-<table>
-    <tr>
-- [x] Green
-    </tr>
-</table>
-<table>
-    <tr>
-- [x] Blue
-    </tr>
-</table>
 
 - [x] Red 
 - [x] Green
