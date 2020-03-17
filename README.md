@@ -60,4 +60,23 @@ Markdown支援有序清單和無序清單。
 3.  Parish
 
 
-- [x] Red - [x] Green - [x] Blue
+<table>
+    <tr>
+- [x] Red 
+    </tr>
+</table>
+
+<table>
+    <tr>
+- [x] Green
+    </tr>
+</table>
+<table>
+    <tr>
+- [x] Blue
+    </tr>
+</table>
+
+- [x] Red 
+- [x] Green
+- [x] Blue
