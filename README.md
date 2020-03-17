@@ -60,4 +60,4 @@ Markdown支援有序清單和無序清單。
 3.  Parish
 
 
-- [x] Red - [ ] Green - [ ] Blue
+- [x] Red - [x] Green - [x] Blue
