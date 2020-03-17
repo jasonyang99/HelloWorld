@@ -83,3 +83,11 @@ Markdown支援有序清單和無序清單
 - [x] Red 
 - [x] Green
 - [x] Blue
+
+
+  |Project Name|Bring up|GPIO|HSIO|Super IO|GOP(VBT)|
+  |----|----|----|----|----|----|
+  |SOM 2569|Done| | | | |
+  |SOM 3569|Done| | | | |
+  |SOM 6869|Done| | | | |
+  |SOM 7569|Done| | | | |
