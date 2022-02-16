@@ -5,7 +5,8 @@
 
 ![Alt text](https://i.iter01.com/images/e2cf72ca1cfe4a9d2ada8555a68d2cd544ae2bb3068c6a48b460798d4144f6c2.png "git SSH clone")
 
-
+>設定SSH
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 >第一步：設定原作的遠端節點
 舉例來說，這是 Fork 過來的專案：
