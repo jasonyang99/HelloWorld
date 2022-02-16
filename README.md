@@ -1,11 +1,65 @@
 ![Alt text](https://www.advantech.tw/css/css-img/advantech-logo-notagl.svg "Hello git")
 
-![alt text](https://github.com/Advgcipc/HelloWorld/Fork.png "Fork Icon")
+Git 基本操作
+============
+
+所有修改檔案提交記錄
+--------------------
+
+git add . 
+
+提交到本地端的檔案庫
+--------------------
+
+git commit -m "Update messges"
+
+本地端的檔案庫同步回遠端檔案庫
+------------------------------
+
+git push 
+
+列出不同檔案與檔案庫
+--------------------
+
+git add . 
+
+輕量級標籤
+----------
+
+git tag -a 2532X001 9fceb02
+           標籤     版本GUID前八碼
+           
+註解的標籤
+----------
+
+git tag -a 2532X001 9fceb02 -m "Update messges"
+                            加入註解訊息
+                            
+查詢所有標籤
+------------
+
+git tag
 
 
-![Alt text](https://i.iter01.com/images/e2cf72ca1cfe4a9d2ada8555a68d2cd544ae2bb3068c6a48b460798d4144f6c2.png "git SSH clone")
+查詢標籤修改
+------------
 
->設定SSH
+git show XXXX
+
+查詢提交版本GUID
+----------------
+
+git log --pretty=oneline
+
+
+檢出標籤
+--------
+
+git checkout -b version2 v2.0.0
+
+
+# 設定SSH #
+
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
 
 >第一步：設定原作的遠端節點
